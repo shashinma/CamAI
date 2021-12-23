@@ -1,4 +1,4 @@
-Copyright (C) 2000-2021, Shashin Michael, all rights reserved.
+Copyright (C) 2021, Mikhail Shashin, all rights reserved.
 
 Third party copyrights are property of their respective owners.
 
